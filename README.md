@@ -1,7 +1,7 @@
 <!-- **trwfs00/trwfs00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-### Hi, Mate! I'm Freshy Full-stack Web Developer - College of Computing @KKU
+## Hi, Mate! I'm Freshy Full-stack Web Developer - College of Computing @KKU
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=trwfs00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
