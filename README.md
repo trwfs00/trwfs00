@@ -71,7 +71,7 @@ Here are some ideas to get you started: -->
 
 ###
 
-- 🔭 I’m currently working on Next.js
+- 🔭 I’m currently working on React.js, Next.js, Prisma, PostgreSQL, MySQL, MongoDB, AWS S3
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me: https://www.linkedin.com/in/trwfs00/
 <!--- 👯 I’m looking to collaborate on ...
